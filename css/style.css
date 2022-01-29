@@ -1,0 +1,41 @@
+.container {
+    width: 690px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: green;
+}
+
+h2 {
+    color: indigo;
+}
+
+#try-react {
+    color: red;
+}
+
+ol>li>ul>li>a {
+    color: rgb(105, 84, 104);
+}
+
+.header {
+    color: khaki;
+}
+
+p>mark {
+    color: orangered;
+}
+
+[alt="logo"] {
+    width: 150px;
+}
+
+a {
+    color: green;
+}
+
+.red1,
+.red2 {
+    color: rgb(47, 255, 255);
+}
