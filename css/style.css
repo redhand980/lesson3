@@ -39,3 +39,7 @@ a {
 .red2 {
     color: rgb(47, 255, 255);
 }
+
+#try-react+p {
+    color: hotpink !important;
+}
